@@ -1,0 +1,43 @@
+*********************************Overview***********************************
+Farkle is a dice rolling game of risk and luck.  Each player will take a turn,
+in order, rolling dice and trying to score points.  Each turn will start with
+six dice being rolled, and points are scored for every 1, 5, or any set of three
+dice of the same value.  Any dice set aside by the player cannot be rolled again
+unless all dice have scored.  The player may choose to keep the points after each
+roll (with a special opening score scenario), or press his or her luck and roll 
+again.  Any roll that does not produce points results in a farkle and the player
+loses all points gained in the current turn and play moves to the next player.
+There are special rules for opening each players scoring, and decision strategy 
+involved which will be covered in the following topics.
+
+********************************Scoring**************************************
+Sets of three are the most valuable way to score in Farkle.  For values 2-6, a
+set of three is worth 100 times the value of the dice.  Example: if you roll
+three 5's, it is worth 500 points.  1's are special and are worth 1,000 points
+for a set of three! Points can also be scored for individual 5's and 1's.  Each
+5 rolled is worth 50 points and each 1 rolled is worth 100 points.
+
+********************************After The Roll********************************
+After each roll, if no points are produced by the roll than the player has farkled
+and will score no points for the turn and play moves to the next player.  If the
+roll has produced points, then the player has decisions to make.  The player must keep
+at least one scoring die set aside after each roll, and these dice cannot be used on
+subsequent rolls during the turn.  If the player has 0 points at the start of the turn, 
+he or she must score 1,000 points in the current turn to "open" the scoring.  Once 
+the player has opened, he or she can choose to keep the points accumulated after each 
+roll (even if its only 50 points), or roll again.  If the player keeps the points, the 
+turn is over and the player adds the points accumulated to his or her total and passes 
+play along.  If the player rolls again, all scoring dice kept are set aside and the player
+will roll the remainging dice.  If the player has kept all six dice then the player gets
+all six dice back and must roll again.
+
+***********************************Strategy************************************
+Not all scoring dice need to be kept.  Sometimes, it is advantageous to keep only
+some of the scoring dice and roll again to give the player more dice to roll.  
+This increases the odds of getting sets of three or getting at least one 1 or 5 to 
+avoid farkling.
+************************************Winning*************************************
+The game enters the "final round" when one player is over 10,000 points.  Once a player has
+reached this threshold, all other players will get one more turn to try to beat
+that players current score.  The player who breaks the 10,000 point threshold will NOT
+get another roll.  After the final round is over, whoever has the most points is the winner!
